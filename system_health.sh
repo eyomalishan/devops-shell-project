@@ -20,7 +20,7 @@ echo "disk space "
 df -h
 
 echo "memory usage"
-free -g
+free -m
 
 echo "uptime"
 uptime
